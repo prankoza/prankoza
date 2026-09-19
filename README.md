@@ -29,4 +29,4 @@
 ### 📌 Проекты
 
 - **[zeta](https://github.com/ТВОЙ_НИК/zeta)** — своё ядро и загрузчик на C и ассемблере
-- **[dotfiles](https://github.com/ТВОЙ_НИК/dotfiles)** — конфиги Void Linux, dwm, Neovim, Alacritty
+- **[dotfiles](https://github.com/ТВОЙ_НИК/dotfiles)** — конфиги dwm, Neovim, Alacritty
