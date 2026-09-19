@@ -4,7 +4,7 @@ I'm **prankoza** — I write C and assembly, build my own OS **Zeta Framework Sy
 
 - 🔭 Currently working on: **Zeta Framework System** — a custom kernel and bootloader from scratch
 - 🌱 Learning: **x86_64, long mode, GDT/IDT, paging**
-- 💻 My setup: **Void Linux + dwm + Alacritty + Neovim + Zellij**
+- 💻 My setup: **Void Linux + dwm + Alacritty + Neovim + Tmux**
 - 🎯 Goal: a fully independent, minimalist operating system
 
 ---
