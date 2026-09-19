@@ -1,6 +1,6 @@
 ### Привет! 👋
 
-Я **prankozaК** — пишу на C и ассемблере, собираю свою ОС **Zeta Framework System**, сижу на Void Linux с dwm.
+Я **prankoza** — пишу на C и ассемблере, собираю свою ОС **Zeta Framework System**, сижу на Void Linux с dwm.
 
 - 🔭 Сейчас работаю над: **Zeta Framework System** — своё ядро и загрузчик с нуля
 - 🌱 Изучаю: **x86_64, long mode, GDT/IDT, paging**
