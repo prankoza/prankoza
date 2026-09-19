@@ -28,5 +28,5 @@
 
 ### 📌 Проекты
 
-- **[zeta](https://github.com/ТВОЙ_НИК/zeta)** — своё ядро и загрузчик на C и ассемблере
-- **[dotfiles](https://github.com/ТВОЙ_НИК/dotfiles)** — конфиги dwm, Neovim, Alacritty
+- **[zeta](https://github.com/prankoza/zeta)** — своё ядро и загрузчик на C и ассемблере
+- **[dotfiles](https://github.com/prankoza/dotfiles)** — конфиги dwm, Neovim, Alacritty
