@@ -1,15 +1,15 @@
-### Привет! 👋
+### Hey 👋
 
-Я **prankoza** — пишу на C и ассемблере, собираю свою ОС **Zeta Framework System**, сижу на Void Linux с dwm.
+I'm **prankoza** — I write C and assembly, build my own OS **Zeta Framework System**, and daily-drive Void Linux with dwm.
 
-- 🔭 Сейчас работаю над: **Zeta Framework System** — своё ядро и загрузчик с нуля
-- 🌱 Изучаю: **x86_64, long mode, GDT/IDT, paging**
-- 💻 Моя среда: **Void Linux + dwm + Alacritty + Neovim + Zellij**
-- 🎯 Цель: полностью независимая минималистичная ОС
+- 🔭 Currently working on: **Zeta Framework System** — a custom kernel and bootloader from scratch
+- 🌱 Learning: **x86_64, long mode, GDT/IDT, paging**
+- 💻 My setup: **Void Linux + dwm + Alacritty + Neovim + Zellij**
+- 🎯 Goal: a fully independent, minimalist operating system
 
 ---
 
-### 🛠️ Стек
+### 🛠️ Stack
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
@@ -17,15 +17,17 @@
 [![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white)](https://voidlinux.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io)
----
-
-### 📊 Статистика
-
-нету ыыы((
 
 ---
 
-### 📌 Проекты
+### 📊 Stats
 
-- **[zeta](https://github.com/prankoza/zeta)** — своё ядро и загрузчик на C и ассемблере
-- **[dotfiles](https://github.com/prankoza/dotfiles)** — конфиги dwm, Neovim, Alacritty
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prankoza&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameprankoza&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📌 Projects
+
+- **[zeta](https://github.com/ioptop/zeta)** — custom kernel and bootloader written in C and assembly (THERES NO REPO YET!)
+- **[dotfiles](https://github.com/ioptop/dotfiles)** — my dwm, Neovim, and Alacritty configs
