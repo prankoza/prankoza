@@ -29,5 +29,5 @@ I'm **prankoza** — I write C and assembly, build my own OS **Zeta Framework Sy
 
 ### 📌 Projects
 
-- **[zeta](https://github.com/ioptop/zeta)** — custom kernel and bootloader written in C and assembly (THERES NO REPO YET!)
+- **[zeta](https://github.com/ioptop/zeta)** — custom kernel and bootloader written in C and assembly
 - **[dotfiles](https://github.com/ioptop/dotfiles)** — my dwm, Neovim, and Alacritty configs
